@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi there, I'm Astha!
 
-<!--
-**AsthaMaurya05/AsthaMaurya05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Science & AI Enthusiast** | 💻 Python Developer | 📊 ML Learner  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+- 🌱 Currently exploring **Machine Learning, AI, and Data Analytics**  
+- 💡 Passionate about building intelligent systems that make real-world impact  
+- 🧠 Love solving problems using **data, logic, and creativity**  
+- 📍 Based in India 🇮🇳  
+
+---
+
+### 🛠️ Tech Stack
+**Languages:** Python, SQL, Java  
+**Data & ML:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Prophet  
+**Databases:** SQLite, MySQL  
+**Tools:** Jupyter Notebook, VS Code, Git, Streamlit  
+**Others:** Excel, Power BI, APIs  
+
+---
+
+### 🌐 Connect With Me  
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/astha-maurya-97138b2b5/))  
+ 
+---
+
+⭐ *"Code. Create. Contribute. Learn something new every day."*  
+
+
