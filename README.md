@@ -22,7 +22,7 @@
 ---
 
 ### 🌐 Connect With Me  
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/astha-maurya-97138b2b5/))  
+[![LinkedIn](https://www.linkedin.com/in/astha-maurya-97138b2b5/)  
  
 ---
 
