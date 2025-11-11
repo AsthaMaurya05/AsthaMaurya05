@@ -13,7 +13,7 @@
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** Python, SQL, Java  
+**Languages:** Python, SQL, C++  
 **Data & ML:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Prophet  
 **Databases:** SQLite, MySQL  
 **Tools:** Jupyter Notebook, VS Code, Git, Streamlit  
