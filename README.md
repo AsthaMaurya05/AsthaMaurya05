@@ -1,6 +1,4 @@
 # 💫 Hi 👋, I'm Astha Maurya
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
-### 👋 Hi, I'm **Astha Maurya**
 
 I'm a **3rd-year Data Science student** passionate about solving real-world challenges with data and AI.
 
