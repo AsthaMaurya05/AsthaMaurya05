@@ -1,3 +1,30 @@
+# 💫 Hi 👋, I'm Astha Maurya
+**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+### 👋 Hi, I'm **Astha Maurya**
+
+I'm a **3rd-year Data Science student** passionate about solving real-world challenges with data and AI.
+
+### 🔍 Experience
+- ⚡ **REC Limited (Intern)** – Time-series electricity demand forecasting + Streamlit dashboard
+- 🌍 **Edunet Foundation + Shell (Intern)** – Carbon emission prediction using Prophet & ML pipelines
+
+### 💡 Projects
+- 🌆 **Smart City Planner (NASA Space Apps Challenge)**  
+  AI-powered platform using NASA Earth data for climate-risk insights
+- 🛣️ **NavSecure – Safety Navigation App**  
+  Safe-route scoring, real-time alerts, Google Maps integration
+- 📊 **Employee Salary EDA**  
+  End-to-end salary insights, automated cleaning + visualization
+- 🟩 **India Air Quality Analysis (Power BI)**  
+  Interactive dashboards comparing AQI across Indian cities and states
+
+### 🛠️ Tech & Tools
+Python · Pandas · NumPy · Matplotlib · Prophet · Power BI · Excel  
+EDA · Data Cleaning · Forecasting · Visualization · APIs
+
+I love transforming messy datasets into meaningful insights and building impactful, data-driven applications 🚀
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/astha-maurya-97138b2b5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asthamaurya8115@gmail.com) 
