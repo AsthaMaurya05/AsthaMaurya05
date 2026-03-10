@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/astha-banner.svg" alt="Astha Maurya — banner" />
+  <img src="assets/Screenshot%202026-03-10%20230251.png" alt="Astha Maurya — banner" />
   <br/>
 </div>
 
