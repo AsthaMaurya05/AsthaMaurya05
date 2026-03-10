@@ -28,6 +28,7 @@
 | ✉️ **Email** | asthamaurya8115@gmail.com |
 | 🧩 **LeetCode** | [AsthaMarurya](https://leetcode.com/u/AsthaMarurya/) |
 | 💻 **HackerRank** | [mauryaastha339](https://www.hackerrank.com/profile/mauryaastha339) |
+| 💻 **Portfolio** | [portfolio]([https://www.hackerrank.com/profile/mauryaastha339](https://myportfolio-beryl-mu.vercel.app/)) |
 
 - 🔭 Built AI forecasting systems deployed in real industry internships at **REC Limited** and **Edunet Foundation + Shell + AICTE**
 - 📈 Experienced with **Prophet**, **Scikit-learn**, **Power BI**, **Streamlit** for end-to-end data pipelines
