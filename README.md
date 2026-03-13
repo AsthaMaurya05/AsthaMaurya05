@@ -139,9 +139,9 @@
 | 🐍 Scientific Computing with Python (300+ hrs) | FreeCodeCamp | Jul 2025 | [View](https://drive.google.com/file/d/1RKo3DVRIQfW-476EyymoX2DnOiMoPTlf/view) |
 | 🗂️ Data Structures & Algorithms | CipherSchools | Jul 2025 | [View](https://drive.google.com/file/d/1UEfC5kjFPuh4SgrONASpU3932JwGGCzN/view) |
 | 🏆 Zero to One Startup Challenge | 24-Hour Hackathon | Aug 2025 | [View](https://drive.google.com/file/d/1UEfC5kjFPuh4SgrONASpU3932JwGGCzN/view) |
-| 🛢️ SQL (Basic) — Verified | HackerRank | Apr 2025 | [View](https://drive.google.com/file/d/15jf1U7RjUIuMbFnXkjD0HsRnmwR6y5BM/view) |
-| 🐍 Python (Basic) — Verified | HackerRank | Feb 2025 | [View](https://drive.google.com/file/d/1riBVOA4IQX11NZQjbqQcmTSh-XjpDSOZ/view) |
-| 🎨 CSS (Basic) — Verified | HackerRank | — | [View Profile](https://www.hackerrank.com/profile/mauryaastha339) |
+| 🛢️ SQL (Basic) — Verified | HackerRank | Apr 2025 | [View](https://www.hackerrank.com/certificates/b976eefc4393) |
+| 🐍 Python (Basic) — Verified | HackerRank | Feb 2025 | [View](https://www.hackerrank.com/certificates/31ff3088b784) |
+| 🎨 CSS (Basic) — Verified | HackerRank | Feb 2026 | [View](https://www.hackerrank.com/certificates/25ffd2cff5e9) |
 
 ---
 
