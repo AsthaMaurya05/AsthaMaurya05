@@ -17,24 +17,27 @@
 
 ## 🧠 About Me
 
-> **AI & Data Science Engineer** passionate about building real-world forecasting, analytics, and decision intelligence systems.
+> **Aspiring AI Engineer** building forecasting systems, LLM-powered agents, and deep learning models from scratch — currently deepening into Transformers and Computer Vision.
 
 | | |
 |---|---|
-| 💼 **Role** | AI & Data Science Engineer |
+| 💼 **Focus** | AI/ML Engineering · LLM Agents · Deep Learning · Time Series Forecasting |
 | 📍 **Location** | Jaunpur, Uttar Pradesh, India |
-| 🎓 **Education** | B.Tech CSE — Lovely Professional University (2023–Present) |
-| 📊 **Focus** | Time Series Forecasting · EDA · Dashboard Development · ML |
+| 🎓 **Education** | B.Tech CSE — Lovely Professional University (2023–2027) · CGPA 7.19 |
 | ✉️ **Email** | asthamaurya8115@gmail.com |
-| 🧩 **LeetCode** | [AsthaMarurya](https://leetcode.com/u/AsthaMarurya/) |
+| 🧩 **LeetCode** | [AsthaMarurya](https://leetcode.com/u/AsthaMarurya/) — 50+ problems solved |
 | 💻 **HackerRank** | [mauryaastha339](https://www.hackerrank.com/profile/mauryaastha339) |
 | 💻 **Portfolio** | [portfolio](https://asthamauryaportfolio.vercel.app/) |
 
-- 🔭 Built AI forecasting systems deployed in real industry internships at **REC Limited** and **Edunet Foundation + Shell + AICTE**
-- 📈 Experienced with **Prophet**, **Scikit-learn**, **Power BI**, **Streamlit** for end-to-end data pipelines
-- 🌍 Worked on sustainability-focused AI — carbon emission forecasting, air pollution analysis, energy demand planning
-- 🚀 Open to internships, freelance projects, and collaborations in AI/ML and Data Science
-- 🏆 NASA Space Apps Challenge — Galactic Problem Solver (2025)
+- 🤖 Building a **multi-agent Financial Research Agent** with a LoRA fine-tuned sentiment model, trained from scratch and deployed on Hugging Face Spaces
+- 🔭 Deployed AI forecasting systems in real industry internships at **REC Limited** and **Edunet Foundation + Shell + AICTE**
+- 🧠 Working through a self-built **Deep Learning roadmap** in public — ANN → CNN → BiLSTM completed, Transformers-from-scratch and YOLO-from-scratch in progress
+- 📈 Experienced with **Prophet, Scikit-learn, PyTorch, TensorFlow, Power BI, Streamlit, FastAPI** for end-to-end ML pipelines
+- 🎯 Currently in a **35-day Placement Prep Program (PEP)** at LPU covering DSA, ML system design, and GenAI
+- ✍️ Writing a **technical blog** breaking down deep learning concepts — [live here](https://asthamaurya05.github.io/blogs/)
+- 🌍 Part of the **Rewriting the Code (RTC)** community; participated in **NASA Space Apps Challenge**
+- ☁️ **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
+- 🚀 Actively seeking **AI/ML and Data Science internships & full-time roles**
 
 ---
 
@@ -50,20 +53,26 @@
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=222)
 
-**AI / Data Science Stack**
+**AI / Deep Learning Stack**
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?logoColor=222)
+![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-0068C8?logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![Prophet](https://img.shields.io/badge/Prophet-0068C8?logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
-**Backend & Databases**
+**Backend & APIs**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
 **Frontend & UI**
@@ -72,13 +81,18 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 
-
 **Analytics & BI Tools**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=222)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?logoColor=222)
+
+**MLOps & Deployment**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Hugging Face Spaces](https://img.shields.io/badge/HF_Spaces-FFD21E?logo=huggingface&logoColor=222)
 
 **Tools & Workflow**
 
@@ -91,15 +105,48 @@
 
 ## 🚀 Featured Projects
 
-| # | Project | Tech Stack | Impact | Repo |
-|---|---------|------------|--------|------|
-| 1 | 📊 **Energy Forecasting Dashboard** | Streamlit, Prophet, Python, Authentication | 3–12 month electricity supply projections for 15+ Indian states | [Repo](https://github.com/AsthaMaurya05/EnergyForecast-REC-Internship-) |
-| 2 | 🌿 **Carbon Emission Forecasting** | Prophet, Python, Streamlit, Plotly | Forecasts India's carbon emissions up to 2035 from 38+ years of data | [Repo](https://github.com/AsthaMaurya05/Edunet_SkillBuild_Internship) |
-| 3 | 🤖 **AI Learning Platform** | Django, Python, Groq API, SQLite | Adaptive quiz engine with personalized AI-generated questions | [Repo](https://github.com/AsthaMaurya05/AI-Learning-Platform) |
-| 4 | 🌍 **India Air Pollution Analysis** | Power BI, Power Query, DAX | 1,199 records · 15+ visuals · health-risk city classification | [Repo](https://github.com/AsthaMaurya05/india-air-pollution-analysis-powerbi) |
-| 5 | 📝 **Notes App** | Next.js, React, JavaScript | Quick note-taking app for productivity | [Repo](https://github.com/AsthaMaurya05/NotesApp) |
-| 6 | 🛡️ **NavSecure — Safety Navigation** | AI Safety Score, SOS Alerts | Real-time women safety enhancement system | [Repo](https://github.com/ayush3739/Navsecure) |
-| 7 | 💰 **Employee Salary EDA** | Pandas, EDA, Python | Fair-pay evaluation support via salary trend insights | [Repo](https://github.com/AsthaMaurya05/Employee-Salary-Analysis-EDA-Report) |
+| # | Project | Tech Stack | Highlight | Repo |
+|---|---------|------------|-----------|------|
+| 1 | 🤖 **Financial Research Agent** | Multi-agent system, LoRA-tuned DistilBERT, Groq/Llama 3.3 70B, FastAPI, Docker | Real-time stock research: live market data + news + a from-scratch fine-tuned sentiment model, synthesized by an LLM. [Live demo](https://huggingface.co/spaces/Astha2700/financial-research-agent) | [Repo](https://github.com/AsthaMaurya05/financial-research-agent) |
+| 2 | 🧠 **ML → DL Learning Roadmap** | Scikit-learn, TensorFlow, Keras, NLP | Public, phase-wise journey from classical ML to deep learning — Fraud Detection, Churn Prediction, and an ANN→CNN→BiLSTM sentiment comparison on IMDB | [Repo](https://github.com/AsthaMaurya05/LearningDataScience) |
+| 3 | 📊 **EDA Agent** | FastAPI, Groq API, Llama 3.3-70B | Automated exploratory data analysis — upload a dataset, get an AI-generated PDF report | [Repo](https://github.com/AsthaMaurya05/eda-agent) |
+| 4 | 🎬 **CineMatch — Movie Recommender** | TF-IDF, Cosine Similarity, Docker, GitHub Actions CI/CD | Content-based recommender with a full CI/CD pipeline: pytest gating + automated Docker Hub push | [Repo](https://github.com/AsthaMaurya05/movie-recommendation) |
+| 5 | 🔤 **Transformer from Scratch** | PyTorch | Implementing attention and transformer architecture from first principles (in progress) | [Repo](https://github.com/AsthaMaurya05/transformer) |
+| 6 | 📈 **Energy Forecasting Dashboard** | Streamlit, Prophet, Python, Authentication | 3–12 month electricity supply projections for 15+ Indian states | [Repo](https://github.com/AsthaMaurya05/EnergyForecast-REC-Internship-) |
+| 7 | 🌿 **Carbon Emission Forecasting** | Prophet, Python, Streamlit, Plotly | Forecasts India's carbon emissions up to 2035 from 38+ years of data | [Repo](https://github.com/AsthaMaurya05/Edunet_SkillBuild_Internship) |
+| 8 | 🤖 **AI Learning Platform** | Django, Python, Groq API, SQLite | Adaptive quiz engine with personalized AI-generated questions | [Repo](https://github.com/AsthaMaurya05/AI-Learning-Platform) |
+| 9 | 🌍 **India Air Pollution Analysis** | Power BI, Power Query, DAX | 1,199 records · 15+ visuals · health-risk city classification | [Repo](https://github.com/AsthaMaurya05/india-air-pollution-analysis-powerbi) |
+
+> 🏗️ **Also building:** YOLO from scratch (object detection) and additional LLM-based projects — coming in the following weeks.
+
+---
+
+## ✍️ Technical Blog
+
+Writing about deep learning concepts as I learn them — explaining the theory and building intuition, not just the code.
+
+**Live:** [asthamaurya05.github.io/blogs](https://asthamaurya05.github.io/blogs/) · **Repo:** [blogs](https://github.com/AsthaMaurya05/blogs)
+
+| Post | Topic |
+|------|-------|
+| 🧠 Neural Networks | Fundamentals & intuition behind ANNs |
+| 🖼️ Convolutional Neural Networks | How CNNs learn spatial features |
+
+---
+
+## 🤖 Deep Learning Roadmap — Progress
+
+Documented step-by-step in the [ML → DL Learning Roadmap](https://github.com/AsthaMaurya05/LearningDataScience) repo:
+
+```
+✅ Phase 1 – Classical Machine Learning     (House Price, Iris, Customer Churn)
+✅ Phase 2 – Feature Engineering & ML       (Titanic, Fraud Detection, Movie Recommendation)
+✅ Phase 3 – Artificial Neural Networks     (MNIST Digit Classification)
+✅ Bridge Project – ANN → CNN → BiLSTM      (IMDB Sentiment Analysis, CNN @ 85% accuracy)
+🔄 Transformers & Attention — from scratch  (in progress, code partially pushed)
+🔄 YOLO — from scratch                      (in progress)
+⏳ LLM-based projects                       (planned, upcoming weeks)
+```
 
 ---
 
@@ -125,9 +172,9 @@
 
 ## 🎓 Education
 
-| Degree | Institution | Duration | CGPA |
-|--------|------------|----------|------|
-| B.Tech — Computer Science & Engineering | Lovely Professional University, Punjab | 2023 – Present | 7.19 |
+| Degree | Institution | Duration |
+|--------|------------|----------|
+| B.Tech — Computer Science & Engineering | Lovely Professional University, Punjab | 2023 – 2027 |
 
 ---
 
@@ -136,6 +183,7 @@
 | Certification | Issuer | Date | Link |
 |--------------|--------|------|------|
 | 🚀 NASA Space Apps Challenge — Galactic Problem Solver | NASA International | Oct 2025 | [View](https://drive.google.com/file/d/13Dg9jb5ZghZr5Ej1WmHAmBFguF1mdKne/view) |
+| ☁️ Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate | Oracle | May 2026 | [View](https://catalog-education.oracle.com/ords/certview/sharebadge?id=611EF54EB28BB007D242AE7BA912E95EC5E3C0B8505EF8842EB43602E61614F6) |
 | 🐍 Scientific Computing with Python (300+ hrs) | FreeCodeCamp | Jul 2025 | [View](https://drive.google.com/file/d/1RKo3DVRIQfW-476EyymoX2DnOiMoPTlf/view) |
 | 🗂️ Data Structures & Algorithms | CipherSchools | Jul 2025 | [View](https://drive.google.com/file/d/1UEfC5kjFPuh4SgrONASpU3932JwGGCzN/view) |
 | 🏆 Zero to One Startup Challenge | 24-Hour Hackathon | Aug 2025 | [View](https://drive.google.com/file/d/1UEfC5kjFPuh4SgrONASpU3932JwGGCzN/view) |
@@ -162,6 +210,8 @@
 ---
 
 ## 📈 DSA Progress
+
+50+ problems solved on LeetCode · Currently in a 35-day Placement Prep Program (PEP) at LPU covering DSA, ML system design & GenAI.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode_Profile-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/AsthaMarurya/)
 
@@ -205,18 +255,22 @@
 ```
 ✅ Completed
 ├── ✅ 2 Industry internships (REC Limited + Edunet Foundation)
-├── ✅ NASA Space Apps Challenge participation
-└── ✅ AI Learning Platform + Energy/Carbon Forecasting systems deployed
+├── ✅ Classical ML → ANN → CNN → BiLSTM (ML → DL Roadmap, phase-wise)
+├── ✅ Multi-agent Financial Research Agent with a LoRA fine-tuned sentiment model
+├── ✅ EDA Agent — automated AI-generated data analysis reports
+├── ✅ NASA Space Apps Challenge + IASC Asteroid Search Campaign
+└── ✅ 50+ LeetCode problems solved
 
-2025 Q4 – 2026 Q1  ████████░░░░  In Progress
-├── 🔄 Deepen ML skills — model ensembles, pipelines, tuning
-├── 🔄 Advanced NLP & LLM integration in Django/Flask apps
-└── 🔄 Build production-grade AI SaaS product
+🔄 In Progress
+├── 🔄 Transformers & Attention — from scratch
+├── 🔄 YOLO — from scratch
+├── 🔄 35-day Placement Prep Program (DSA + ML + GenAI)
+└── 🔄 Active internship/full-time job search
 
-2026 Q2–Q3         ░░░░░░░░░░░░  Planned
-├── 🎯 Contribute to open-source AI/data-science projects
+⏳ Planned
+├── 🎯 LLM-based projects
 ├── 🎯 Cloud deployment — AWS / GCP fundamentals
-├── 🎯 Research in time-series forecasting & climate AI
+├── 🎯 Contribute to open-source AI/data-science projects
 └── 🎯 Full-time role in AI/ML or Data Science
 ```
 
@@ -240,7 +294,7 @@
 <div align="center">
 
 **📝 Currently:**
-🔸 Building end-to-end AI data pipelines · 🔸 Deepening ML & NLP skills · 🔸 Open to AI/ML internships
+🔸 Building a Transformer from scratch · 🔸 Building YOLO from scratch · 🔸 Writing a technical blog · 🔸 Open to AI/ML internships & full-time roles
 
 Made with ❤️ by Astha Maurya
 
