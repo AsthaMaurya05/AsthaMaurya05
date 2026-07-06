@@ -1,187 +1,316 @@
 <div align="center">
-  <img src="assets/Screenshot%202026-03-10%20230251.png" alt="Astha Maurya — banner" />
-  <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d4edd,100:0A66C2&height=200&section=header&text=Astha%20Maurya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=650&lines=Building+AI+Agents+%26+Deep+Learning+Models;LoRA+Fine-Tuning+%C2%B7+Transformers+%C2%B7+Time+Series;Learning+in+Public+%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/astha-maurya05"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+<a href="https://github.com/AsthaMaurya05"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+<a href="https://leetcode.com/u/AsthaMarurya/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" /></a>
+<a href="https://www.hackerrank.com/profile/mauryaastha339"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" /></a>
+<a href="https://asthamauryaportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-9D4EDD?logo=vercel&logoColor=white&style=for-the-badge" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=AsthaMaurya05&style=for-the-badge&color=9d4edd&label=PROFILE+VIEWS" />
+
 </div>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/astha-maurya05)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/AsthaMaurya05)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/AsthaMarurya/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/profile/mauryaastha339)
-[![Profile Views](https://komarev.com/ghpvc/?username=AsthaMaurya05&style=for-the-badge&color=9d4edd)](https://github.com/AsthaMaurya05)
-
-</div>
-
----
+<br/>
 
 ## 🧠 About Me
 
-> **Aspiring AI Engineer** building forecasting systems, LLM-powered agents, and deep learning models from scratch — currently deepening into Transformers and Computer Vision.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-| | |
+> 💬 **Aspiring AI Engineer** building forecasting systems, LLM-powered agents, and deep learning models from scratch — currently deepening into Transformers and Computer Vision.
+
+🤖 &nbsp;Building a **multi-agent Financial Research Agent** with a LoRA fine-tuned sentiment model, trained from scratch and deployed on Hugging Face Spaces
+
+🔭 &nbsp;Deployed AI forecasting systems in real industry internships at **REC Limited** and **Edunet Foundation + Shell + AICTE**
+
+🧠 &nbsp;Working through a self-built **Deep Learning roadmap** in public — ANN → CNN → BiLSTM, Transformer, ViT, and YOLOv3 all implemented from scratch; a decoder-only **Mini-GPT** and a **YOLOv8 helmet safety detector** shipped as standalone projects
+
+📈 &nbsp;Experienced with **Prophet, Scikit-learn, PyTorch, TensorFlow, Power BI, Streamlit, FastAPI** for end-to-end ML pipelines
+
+🎯 &nbsp;Currently in a **35-day Placement Prep Program (PEP)** at LPU covering DSA, ML system design, and GenAI
+
+✍️ &nbsp;Writing a **technical blog** breaking down deep learning concepts — [live here](https://asthamaurya05.github.io/blogs/)
+
+🌍 &nbsp;Part of the **Rewriting the Code (RTC)** community; participated in **NASA Space Apps Challenge**
+
+☁️ &nbsp;**Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
+
+🚀 &nbsp;Actively seeking **AI/ML and Data Science internships & full-time roles**
+
+</td>
+<td width="40%" valign="top">
+
+|  |  |
 |---|---|
-| 💼 **Focus** | AI/ML Engineering · LLM Agents · Deep Learning · Time Series Forecasting |
+| 💼 **Focus** | AI/ML Engineering, LLM Agents, DL, Time Series |
 | 📍 **Location** | Jaunpur, Uttar Pradesh, India |
-| 🎓 **Education** | B.Tech CSE — Lovely Professional University (2023–2027) · CGPA 7.19 |
+| 🎓 **Education** | B.Tech CSE, LPU (2023–2027) |
+| 📊 **CGPA** | 7.19 |
 | ✉️ **Email** | asthamaurya8115@gmail.com |
-| 🧩 **LeetCode** | [AsthaMarurya](https://leetcode.com/u/AsthaMarurya/) — 50+ problems solved |
+| 🧩 **LeetCode** | 50+ problems solved |
 | 💻 **HackerRank** | [mauryaastha339](https://www.hackerrank.com/profile/mauryaastha339) |
-| 💻 **Portfolio** | [portfolio](https://asthamauryaportfolio.vercel.app/) |
+| 💻 **Portfolio** | [View →](https://asthamauryaportfolio.vercel.app/) |
 
-- 🤖 Building a **multi-agent Financial Research Agent** with a LoRA fine-tuned sentiment model, trained from scratch and deployed on Hugging Face Spaces
-- 🔭 Deployed AI forecasting systems in real industry internships at **REC Limited** and **Edunet Foundation + Shell + AICTE**
-- 🧠 Working through a self-built **Deep Learning roadmap** in public — ANN → CNN → BiLSTM completed, Transformers-from-scratch and YOLO-from-scratch in progress
-- 📈 Experienced with **Prophet, Scikit-learn, PyTorch, TensorFlow, Power BI, Streamlit, FastAPI** for end-to-end ML pipelines
-- 🎯 Currently in a **35-day Placement Prep Program (PEP)** at LPU covering DSA, ML system design, and GenAI
-- ✍️ Writing a **technical blog** breaking down deep learning concepts — [live here](https://asthamaurya05.github.io/blogs/)
-- 🌍 Part of the **Rewriting the Code (RTC)** community; participated in **NASA Space Apps Challenge**
-- ☁️ **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
-- 🚀 Actively seeking **AI/ML and Data Science internships & full-time roles**
+</td>
+</tr>
+</table>
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=222)
-
-**AI / Deep Learning Stack**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?logoColor=222)
-![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Prophet](https://img.shields.io/badge/Prophet-0068C8?logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+**AI · Deep Learning · ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+&nbsp;
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=222)
+![Prophet](https://img.shields.io/badge/Prophet-0068C8?style=flat-square&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 **Backend & APIs**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,sqlite" />
 
 **Frontend & UI**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=222)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-
-**Analytics & BI Tools**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=222)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-217346?logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?logoColor=222)
+**Analytics & BI**
+<br/>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=222)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=222)
 
 **MLOps & Deployment**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![Hugging Face Spaces](https://img.shields.io/badge/HF_Spaces-FFD21E?logo=huggingface&logoColor=222)
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,githubactions" />
+&nbsp;
+![HF Spaces](https://img.shields.io/badge/HF_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=222)
 
 **Tools & Workflow**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode" />
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+</div>
 
----
+<br/>
 
 ## 🚀 Featured Projects
 
-| # | Project | Tech Stack | Highlight | Repo |
-|---|---------|------------|-----------|------|
-| 1 | 🤖 **Financial Research Agent** | Multi-agent system, LoRA-tuned DistilBERT, Groq/Llama 3.3 70B, FastAPI, Docker | Real-time stock research: live market data + news + a from-scratch fine-tuned sentiment model, synthesized by an LLM. [Live demo](https://huggingface.co/spaces/Astha2700/financial-research-agent) | [Repo](https://github.com/AsthaMaurya05/financial-research-agent) |
-| 2 | 🧠 **ML → DL Learning Roadmap** | Scikit-learn, TensorFlow, Keras, NLP | Public, phase-wise journey from classical ML to deep learning — Fraud Detection, Churn Prediction, and an ANN→CNN→BiLSTM sentiment comparison on IMDB | [Repo](https://github.com/AsthaMaurya05/LearningDataScience) |
-| 3 | 📊 **EDA Agent** | FastAPI, Groq API, Llama 3.3-70B | Automated exploratory data analysis — upload a dataset, get an AI-generated PDF report | [Repo](https://github.com/AsthaMaurya05/eda-agent) |
-| 4 | 🎬 **CineMatch — Movie Recommender** | TF-IDF, Cosine Similarity, Docker, GitHub Actions CI/CD | Content-based recommender with a full CI/CD pipeline: pytest gating + automated Docker Hub push | [Repo](https://github.com/AsthaMaurya05/movie-recommendation) |
-| 5 | 🔤 **Transformer from Scratch** | PyTorch | Implementing attention and transformer architecture from first principles (in progress) | [Repo](https://github.com/AsthaMaurya05/transformer) |
-| 6 | 📈 **Energy Forecasting Dashboard** | Streamlit, Prophet, Python, Authentication | 3–12 month electricity supply projections for 15+ Indian states | [Repo](https://github.com/AsthaMaurya05/EnergyForecast-REC-Internship-) |
-| 7 | 🌿 **Carbon Emission Forecasting** | Prophet, Python, Streamlit, Plotly | Forecasts India's carbon emissions up to 2035 from 38+ years of data | [Repo](https://github.com/AsthaMaurya05/Edunet_SkillBuild_Internship) |
-| 8 | 🤖 **AI Learning Platform** | Django, Python, Groq API, SQLite | Adaptive quiz engine with personalized AI-generated questions | [Repo](https://github.com/AsthaMaurya05/AI-Learning-Platform) |
-| 9 | 🌍 **India Air Pollution Analysis** | Power BI, Power Query, DAX | 1,199 records · 15+ visuals · health-risk city classification | [Repo](https://github.com/AsthaMaurya05/india-air-pollution-analysis-powerbi) |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> 🏗️ **Also building:** YOLO from scratch (object detection) and additional LLM-based projects — coming in the following weeks.
+### 🤖 [Financial Research Agent](https://github.com/AsthaMaurya05/financial-research-agent)
+Real-time stock research: live market data + news + a **from-scratch LoRA fine-tuned sentiment model** (DistilBERT), synthesized by Groq/Llama 3.3 70B.
+<br/>`Multi-agent` `LoRA` `FastAPI` `Docker`
+<br/>🔗 [Live Demo](https://huggingface.co/spaces/Astha2700/financial-research-agent)
 
----
+</td>
+<td width="50%" valign="top">
+
+### 🧬 [Models From Scratch](https://github.com/AsthaMaurya05/model_from_scratch)
+Core deep learning architectures built from first principles — ANN, CNN, Transformer (multi-head attention + masking), Vision Transformer, and YOLOv3 (IoU, NMS, bounding-box utilities).
+<br/>`PyTorch` `Transformer` `ViT` `YOLOv3`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔤 [Mini-GPT: Decoder-Only Transformer](https://github.com/AsthaMaurya05/small_gpt_model)
+Character-level GPT-style language model with no `transformers` library and no pretrained weights — attention, multi-head attention, and the training loop written by hand. Val loss down to 1.65 from a random-init baseline of ln(65) ≈ 4.17.
+<br/>`PyTorch` `Self-Attention` `From Scratch`
+
+</td>
+<td width="50%" valign="top">
+
+### 🪖 [Construction Helmet Safety Detector](https://github.com/AsthaMaurya05/yolo-helmet-detector)
+Custom YOLOv8 object detector (transfer learning from COCO) that flags workers without safety helmets — 97.2% mAP50 on the helmet class, trained in ~23 min on a free-tier T4 GPU.
+<br/>`YOLOv8` `Transfer Learning` `Computer Vision`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [ML → DL Learning Roadmap](https://github.com/AsthaMaurya05/LearningDataScience)
+Public, phase-wise journey from classical ML to deep learning — Fraud Detection, Churn Prediction, and an ANN→CNN→BiLSTM sentiment comparison on IMDB.
+<br/>`Scikit-learn` `TensorFlow` `Keras` `NLP`
+
+</td>
+<td width="50%" valign="top">
+
+### 📐 [ML Concepts](https://github.com/AsthaMaurya05/ML_concepts)
+Clean implementations of core classical ML algorithms — linear & logistic regression, decision trees, random forest, KNN, confusion matrix — paired with a [deployed notes site](https://asthamaurya05.github.io/ML_concepts/).
+<br/>`Scikit-learn` `Classical ML`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [EDA Agent](https://github.com/AsthaMaurya05/eda-agent)
+Automated exploratory data analysis — upload a dataset, get an AI-generated PDF report.
+<br/>`FastAPI` `Groq API` `Llama 3.3-70B`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 [CineMatch — Movie Recommender](https://github.com/AsthaMaurya05/movie-recommendation)
+Content-based recommender with a full CI/CD pipeline: pytest gating + automated Docker Hub push.
+<br/>`TF-IDF` `Cosine Similarity` `Docker` `GitHub Actions`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 [Energy Forecasting Dashboard](https://github.com/AsthaMaurya05/EnergyForecast-REC-Internship-)
+3–12 month electricity supply projections for 15+ Indian states.
+<br/>`Streamlit` `Prophet` `Authentication`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌿 [Carbon Emission Forecasting](https://github.com/AsthaMaurya05/Edunet_SkillBuild_Internship)
+Forecasts India's carbon emissions up to 2035 from 38+ years of data.
+<br/>`Prophet` `Streamlit` `Plotly`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [AI Learning Platform](https://github.com/AsthaMaurya05/AI-Learning-Platform)
+Adaptive quiz engine with personalized AI-generated questions.
+<br/>`Django` `Groq API` `SQLite`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 [India Air Pollution Analysis](https://github.com/AsthaMaurya05/india-air-pollution-analysis-powerbi)
+1,199 records · 15+ visuals · health-risk city classification.
+<br/>`Power BI` `Power Query` `DAX`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+📂 **Also on GitHub:** [Employee Salary EDA](https://github.com/AsthaMaurya05/Employee-Salary-Analysis-EDA-Report) · [Notes App](https://github.com/AsthaMaurya05/NotesApp) · [Full profile →](https://github.com/AsthaMaurya05)
+
+</div>
+
+<br/>
 
 ## ✍️ Technical Blog
 
+<div align="center">
+
 Writing about deep learning concepts as I learn them — explaining the theory and building intuition, not just the code.
 
-**Live:** [asthamaurya05.github.io/blogs](https://asthamaurya05.github.io/blogs/) · **Repo:** [blogs](https://github.com/AsthaMaurya05/blogs)
+<a href="https://asthamaurya05.github.io/blogs/"><img src="https://img.shields.io/badge/Read_the_Blog-9D4EDD?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+<a href="https://github.com/AsthaMaurya05/blogs"><img src="https://img.shields.io/badge/Blog_Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://asthamaurya05.github.io/ML_concepts/"><img src="https://img.shields.io/badge/ML_Concepts_Notes-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
 
 | Post | Topic |
-|------|-------|
-| 🧠 Neural Networks | Fundamentals & intuition behind ANNs |
-| 🖼️ Convolutional Neural Networks | How CNNs learn spatial features |
+|:--|:--|
+| 🧠 **Neural Networks & Backpropagation** | Fundamentals & intuition behind ANNs |
+| 🖼️ **Convolutional Neural Networks** | How CNNs learn spatial features |
+| 🔤 **The Transformer: Attention Is All You Need** | Self-attention & the architecture behind modern LLMs |
+| 🎯 **You Only Look Once: Real-Time Object Detection** | How YOLO frames detection as a single regression problem |
 
----
+</div>
 
-## 🤖 Deep Learning Roadmap — Progress
+<br/>
 
-Documented step-by-step in the [ML → DL Learning Roadmap](https://github.com/AsthaMaurya05/LearningDataScience) repo:
+## 🗂️ Deep Learning Roadmap — Progress
 
-```
-✅ Phase 1 – Classical Machine Learning     (House Price, Iris, Customer Churn)
-✅ Phase 2 – Feature Engineering & ML       (Titanic, Fraud Detection, Movie Recommendation)
-✅ Phase 3 – Artificial Neural Networks     (MNIST Digit Classification)
-✅ Bridge Project – ANN → CNN → BiLSTM      (IMDB Sentiment Analysis, CNN @ 85% accuracy)
-🔄 Transformers & Attention — from scratch  (in progress, code partially pushed)
-🔄 YOLO — from scratch                      (in progress)
-⏳ LLM-based projects                       (planned, upcoming weeks)
-```
+<div align="center">
 
----
+Documented step-by-step across the [ML → DL Learning Roadmap](https://github.com/AsthaMaurya05/LearningDataScience) and [Models From Scratch](https://github.com/AsthaMaurya05/model_from_scratch) repos
+
+| Stage | Status |
+|:--|:--:|
+| Phase 1 – Classical ML (House Price, Iris, Customer Churn) | ✅ |
+| Phase 2 – Feature Engineering & ML (Titanic, Fraud Detection, Movie Recommendation) | ✅ |
+| Phase 3 – Artificial Neural Networks (MNIST) | ✅ |
+| Bridge Project – ANN → CNN → BiLSTM (IMDB Sentiment, CNN @ 85% accuracy) | ✅ |
+| Transformer & Attention — from scratch | ✅ |
+| Vision Transformer (ViT) — from scratch | ✅ |
+| YOLOv3 — from scratch | ✅ |
+| Mini-GPT — decoder-only Transformer, trained on Tiny Shakespeare | ✅ |
+| YOLOv8 Transfer Learning — Construction Helmet Detector | ✅ |
+| LLM-based projects | ⏳ Planned |
+
+</div>
+
+<br/>
 
 ## 💼 Industry Experience
 
-### 🏭 AI & Data Analytics Intern — Edunet Foundation + Shell + AICTE
-**Oct 2025 – Nov 2025** · [View Certificate](https://github.com/AsthaMaurya05/Edunet_SkillBuild_Internship)
+<table>
+<tr><td>
+
+**🏭 AI & Data Analytics Intern — Edunet Foundation + Shell + AICTE**
+`Oct 2025 – Nov 2025` · [View Certificate](https://github.com/AsthaMaurya05/Edunet_SkillBuild_Internship)
 
 - Analyzed 38+ years of India's electricity generation data (1985–2023) across 8 energy sources
 - Engineered time-series forecasting models using **Prophet, Linear Regression & persistence methods** to project trends up to 2035
 - Built an interactive **Streamlit dashboard** with 4+ sustainability KPIs and multiple Plotly visualizations covering emission trajectories, renewable energy share, and energy mix trends
 
----
+</td></tr>
+<tr><td>
 
-### 🏭 Data Analytics Intern — REC Limited
-**Jun 2025 – Jul 2025** · [View Certificate](https://github.com/AsthaMaurya05/EnergyForecast-REC-Internship-)
+**🏭 Data Analytics Intern — REC Limited**
+`Jun 2025 – Jul 2025` · [View Certificate](https://github.com/AsthaMaurya05/EnergyForecast-REC-Internship-)
 
 - Processed multi-state electricity demand data covering **15+ Indian states** for power consumption analysis
 - Developed AI-driven time-series forecasting with **Facebook Prophet** for 3–12 month electricity supply predictions
 - Designed an interactive **Streamlit dashboard** with authentication, forecast history tracking, and downloadable analytics
 
----
+</td></tr>
+</table>
+
+<br/>
 
 ## 🎓 Education
 
-| Degree | Institution | Duration |
-|--------|------------|----------|
-| B.Tech — Computer Science & Engineering | Lovely Professional University, Punjab | 2023 – 2027 |
+<div align="center">
 
----
+| Degree | Institution | Duration | CGPA |
+|:--|:--|:--:|:--:|
+| B.Tech — Computer Science & Engineering | Lovely Professional University, Punjab | 2023 – 2027 | **7.27** |
+
+</div>
+
+<br/>
 
 ## 🏅 Certifications & Achievements
 
+<div align="center">
+
 | Certification | Issuer | Date | Link |
-|--------------|--------|------|------|
+|:--|:--|:--:|:--:|
 | 🚀 NASA Space Apps Challenge — Galactic Problem Solver | NASA International | Oct 2025 | [View](https://drive.google.com/file/d/13Dg9jb5ZghZr5Ej1WmHAmBFguF1mdKne/view) |
 | ☁️ Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate | Oracle | May 2026 | [View](https://catalog-education.oracle.com/ords/certview/sharebadge?id=611EF54EB28BB007D242AE7BA912E95EC5E3C0B8505EF8842EB43602E61614F6) |
 | 🐍 Scientific Computing with Python (300+ hrs) | FreeCodeCamp | Jul 2025 | [View](https://drive.google.com/file/d/1RKo3DVRIQfW-476EyymoX2DnOiMoPTlf/view) |
@@ -191,111 +320,124 @@ Documented step-by-step in the [ML → DL Learning Roadmap](https://github.com/A
 | 🐍 Python (Basic) — Verified | HackerRank | Feb 2025 | [View](https://www.hackerrank.com/certificates/31ff3088b784) |
 | 🎨 CSS (Basic) — Verified | HackerRank | Feb 2026 | [View](https://www.hackerrank.com/certificates/25ffd2cff5e9) |
 
----
+</div>
+
+<br/>
 
 ## 🏆 HackerRank Badges
 
-> Skill badges earned on [HackerRank](https://www.hackerrank.com/profile/mauryaastha339)
+<div align="center">
 
-| Badge | Stars |
-|-------|-------|
-| 🐍 Python | ⭐⭐⭐⭐⭐ (5 Stars) |
-| ➕ C++ | ⭐⭐⭐ (3 Stars) |
-| ☕ Java | ⭐⭐ (2 Stars) |
-| 🔵 C Language | ⭐⭐ (2 Stars) |
-| 🧠 Problem Solving | ⭐⭐ (2 Stars) |
+Skill badges earned on [HackerRank](https://www.hackerrank.com/profile/mauryaastha339)
 
-[![HackerRank](https://img.shields.io/badge/View_Full_Profile-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/profile/mauryaastha339)
+| 🐍 Python | ➕ C++ | ☕ Java | 🔵 C | 🧠 Problem Solving |
+|:--:|:--:|:--:|:--:|:--:|
+| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐ |
 
----
+<a href="https://www.hackerrank.com/profile/mauryaastha339"><img src="https://img.shields.io/badge/View_Full_Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+
+</div>
+
+<br/>
 
 ## 📈 DSA Progress
 
-50+ problems solved on LeetCode · Currently in a 35-day Placement Prep Program (PEP) at LPU covering DSA, ML system design & GenAI.
-
-[![LeetCode](https://img.shields.io/badge/LeetCode_Profile-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/AsthaMarurya/)
-
 <div align="center">
+
+50+ problems solved on LeetCode · Currently in a **35-day Placement Prep Program (PEP)** at LPU covering DSA, ML system design & GenAI
+
+<a href="https://leetcode.com/u/AsthaMarurya/"><img src="https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+
 <a href="https://leetcode.com/u/AsthaMarurya/">
   <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/AsthaMarurya?theme=dark&ext=activity" />
 </a>
+
 </div>
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Astha's GitHub Stats" height="160" src="https://github-readme-stats.vercel.app/api?username=AsthaMaurya05&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&rank_icon=github&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Top Languages" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsthaMaurya05&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</a>
+<img alt="Astha's GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=AsthaMaurya05&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&rank_icon=github&hide_border=true" />
+<img alt="Top Languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsthaMaurya05&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=AsthaMaurya05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
+<img src="https://streak-stats.demolab.com?user=AsthaMaurya05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img alt="Astha's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AsthaMaurya05&theme=tokyo-night&area=true&hide_border=true" />
-</a>
+<img alt="Astha's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AsthaMaurya05&theme=tokyo-night&area=true&hide_border=true" />
 
 </div>
 
----
+<br/>
 
 ## 🗺️ Roadmap
 
-```
-✅ Completed
-├── ✅ 2 Industry internships (REC Limited + Edunet Foundation)
-├── ✅ Classical ML → ANN → CNN → BiLSTM (ML → DL Roadmap, phase-wise)
-├── ✅ Multi-agent Financial Research Agent with a LoRA fine-tuned sentiment model
-├── ✅ EDA Agent — automated AI-generated data analysis reports
-├── ✅ NASA Space Apps Challenge + IASC Asteroid Search Campaign
-└── ✅ 50+ LeetCode problems solved
+<table>
+<tr>
+<td width="33%" valign="top">
 
-🔄 In Progress
-├── 🔄 Transformers & Attention — from scratch
-├── 🔄 YOLO — from scratch
-├── 🔄 35-day Placement Prep Program (DSA + ML + GenAI)
-└── 🔄 Active internship/full-time job search
+**✅ Completed**
+- 2 Industry internships (REC Limited + Edunet Foundation)
+- Classical ML → ANN → CNN → BiLSTM
+- Transformer, ViT & YOLOv3 from scratch
+- Mini-GPT (decoder-only Transformer)
+- YOLOv8 Helmet Safety Detector
+- Multi-agent Financial Research Agent (LoRA fine-tuned)
+- EDA Agent — AI-generated data reports
+- NASA Space Apps Challenge
+- Oracle AI Foundations certification
+- 50+ LeetCode problems solved
 
-⏳ Planned
-├── 🎯 LLM-based projects
-├── 🎯 Cloud deployment — AWS / GCP fundamentals
-├── 🎯 Contribute to open-source AI/data-science projects
-└── 🎯 Full-time role in AI/ML or Data Science
-```
+</td>
+<td width="33%" valign="top">
 
----
+**🔄 In Progress**
+- Technical blog (4 posts live: NN, CNN, Transformer, YOLO)
+- 35-day Placement Prep Program
+- Active internship/full-time job search
+
+</td>
+<td width="33%" valign="top">
+
+**⏳ Planned**
+- LLM-based projects (upcoming weeks)
+- Cloud deployment — AWS / GCP
+- Open-source contributions
+- Full-time role in AI/ML or Data Science
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-💼 **LinkedIn:** [astha-maurya05](https://www.linkedin.com/in/astha-maurya05)
-💻 **GitHub:** [AsthaMaurya05](https://github.com/AsthaMaurya05)
-🧩 **LeetCode:** [AsthaMarurya](https://leetcode.com/u/AsthaMarurya/)
-💻 **HackerRank:** [mauryaastha339](https://www.hackerrank.com/profile/mauryaastha339)
-✉️ **Email:** asthamaurya8115@gmail.com
+<a href="https://www.linkedin.com/in/astha-maurya05"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/AsthaMaurya05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/u/AsthaMarurya/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/profile/mauryaastha339"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="mailto:asthamaurya8115@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 📱 **Phone:** +91 8115209364
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-**📝 Currently:**
-🔸 Building a Transformer from scratch · 🔸 Building YOLO from scratch · 🔸 Writing a technical blog · 🔸 Open to AI/ML internships & full-time roles
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:9d4edd&height=120&section=footer" width="100%"/>
 
-Made with ❤️ by Astha Maurya
+**📝 Currently:** Building LLM-based projects · Writing a technical blog · Open to AI/ML internships & full-time roles
+
+*Made with ❤️ by Astha Maurya*
 
 </div>
