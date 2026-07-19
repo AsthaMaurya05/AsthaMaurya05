@@ -38,6 +38,8 @@
 
 ✍️ &nbsp;Writing a **technical blog** breaking down deep learning concepts — [live here](https://asthamaurya05.github.io/blogs/)
 
+🧩 &nbsp;Built a **Chrome extension** that auto-solves LeetCode problems with AI, self-corrects on failed runs, and pushes accepted solutions to GitHub — [wrote about it](https://medium.com/@asthamaurya8115/i-built-a-chrome-extension-that-solves-leetcode-problems-with-ai-heres-what-broke-along-the-way-d7c9bde65326)
+
 🌍 &nbsp;Part of the **Rewriting the Code (RTC)** community; participated in **NASA Space Apps Challenge**
 
 ☁️ &nbsp;**Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
@@ -52,7 +54,6 @@
 | 💼 **Focus** | AI/ML Engineering, LLM Agents, DL, Time Series |
 | 📍 **Location** | Jaunpur, Uttar Pradesh, India |
 | 🎓 **Education** | B.Tech CSE, LPU (2023–2027) |
-| 📊 **CGPA** | 7.19 |
 | ✉️ **Email** | asthamaurya8115@gmail.com |
 | 🧩 **LeetCode** | 50+ problems solved |
 | 💻 **HackerRank** | [mauryaastha339](https://www.hackerrank.com/profile/mauryaastha339) |
@@ -82,6 +83,14 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Generative AI & LLMs**
+<br/>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-9D4EDD?style=flat-square&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA_Fine--Tuning-FFD21E?style=flat-square&logoColor=222)
+![Unsloth](https://img.shields.io/badge/Unsloth-00A388?style=flat-square&logoColor=white)
 
 **Backend & APIs**
 <br/>
@@ -127,8 +136,8 @@ Real-time stock research: live market data + news + a **from-scratch LoRA fine-t
 <td width="50%" valign="top">
 
 ### 🧬 [Models From Scratch](https://github.com/AsthaMaurya05/model_from_scratch)
-Core deep learning architectures built from first principles — ANN, CNN, Transformer (multi-head attention + masking), Vision Transformer, and YOLOv3 (IoU, NMS, bounding-box utilities).
-<br/>`PyTorch` `Transformer` `ViT` `YOLOv3`
+Core deep learning architectures built from first principles — ANN, CNN, RNN, Transformer (multi-head attention + masking), Vision Transformer, CLIP, and YOLOv3 (IoU, NMS, bounding-box utilities) — actively growing.
+<br/>`PyTorch` `Transformer` `ViT` `CLIP` `RNN` `YOLOv3`
 
 </td>
 </tr>
@@ -183,6 +192,14 @@ Content-based recommender with a full CI/CD pipeline: pytest gating + automated 
 <tr>
 <td width="50%" valign="top">
 
+### 🧩 LeetCode Auto Solver — Chrome Extension
+Extracts a LeetCode problem from the page, generates a Python solution via Groq, injects it into the Monaco editor, runs it, and self-corrects on failure by feeding the exact error back to the model (up to 3 retries) — with optional auto-submit and GitHub push.
+<br/>`Chrome Extension` `Groq API` `DOM Automation`
+<br/>🔗 [Blog Post](https://medium.com/@asthamaurya8115/i-built-a-chrome-extension-that-solves-leetcode-problems-with-ai-heres-what-broke-along-the-way-d7c9bde65326)
+
+</td>
+<td width="50%" valign="top">
+
 ### 📈 [Energy Forecasting Dashboard](https://github.com/AsthaMaurya05/EnergyForecast-REC-Internship-)
 3–12 month electricity supply projections for 15+ Indian states.
 <br/>`Streamlit` `Prophet` `Authentication`
@@ -216,7 +233,7 @@ Adaptive quiz engine with personalized AI-generated questions.
 
 <div align="center">
 
-📂 **Also on GitHub:** [Employee Salary EDA](https://github.com/AsthaMaurya05/Employee-Salary-Analysis-EDA-Report) · [Notes App](https://github.com/AsthaMaurya05/NotesApp) · [Full profile →](https://github.com/AsthaMaurya05)
+📂 **Also on GitHub:** [Employee Salary EDA](https://github.com/AsthaMaurya05/Employee-Salary-Analysis-EDA-Report) · [Notes App](https://github.com/AsthaMaurya05/NotesApp) · [LangChain + Groq Tutorial](https://github.com/AsthaMaurya05) · [Fine-Tuning with Unsloth](https://github.com/AsthaMaurya05) · [Full profile →](https://github.com/AsthaMaurya05)
 
 </div>
 
@@ -236,7 +253,10 @@ Writing about deep learning concepts as I learn them — explaining the theory a
 |:--|:--|
 | 🧠 **Neural Networks & Backpropagation** | Fundamentals & intuition behind ANNs |
 | 🖼️ **Convolutional Neural Networks** | How CNNs learn spatial features |
+| 🔁 **Recurrent Neural Networks** | Sequence modeling & the vanishing gradient problem |
 | 🔤 **The Transformer: Attention Is All You Need** | Self-attention & the architecture behind modern LLMs |
+| 🖼️ **Vision Transformers Explained** | Applying the Transformer to image patches |
+| 🔗 **CLIP: Connecting Text and Images** | Contrastive learning between vision and language |
 | 🎯 **You Only Look Once: Real-Time Object Detection** | How YOLO frames detection as a single regression problem |
 
 </div>
@@ -255,11 +275,14 @@ Documented step-by-step across the [ML → DL Learning Roadmap](https://github.c
 | Phase 2 – Feature Engineering & ML (Titanic, Fraud Detection, Movie Recommendation) | ✅ |
 | Phase 3 – Artificial Neural Networks (MNIST) | ✅ |
 | Bridge Project – ANN → CNN → BiLSTM (IMDB Sentiment, CNN @ 85% accuracy) | ✅ |
+| Recurrent Neural Networks (RNN) — from scratch | ✅ |
 | Transformer & Attention — from scratch | ✅ |
 | Vision Transformer (ViT) — from scratch | ✅ |
+| CLIP — from scratch | ✅ |
 | YOLOv3 — from scratch | ✅ |
 | Mini-GPT — decoder-only Transformer, trained on Tiny Shakespeare | ✅ |
 | YOLOv8 Transfer Learning — Construction Helmet Detector | ✅ |
+| LangChain + Groq / Unsloth Fine-Tuning — tutorial notebooks | ✅ |
 | LLM-based projects | ⏳ Planned |
 
 </div>
@@ -284,7 +307,7 @@ Documented step-by-step across the [ML → DL Learning Roadmap](https://github.c
 **🏭 Data Analytics Intern — REC Limited**
 `Jun 2025 – Jul 2025` · [View Certificate](https://github.com/AsthaMaurya05/EnergyForecast-REC-Internship-)
 
-- Processed multi-state electricity demand data covering **15+ Indian states** for power consumption analysis
+- Processed a **476-row electricity demand dataset** spanning **15+ Indian states** for power consumption analysis
 - Developed AI-driven time-series forecasting with **Facebook Prophet** for 3–12 month electricity supply predictions
 - Designed an interactive **Streamlit dashboard** with authentication, forecast history tracking, and downloadable analytics
 
@@ -397,7 +420,7 @@ Skill badges earned on [HackerRank](https://www.hackerrank.com/profile/mauryaast
 <td width="33%" valign="top">
 
 **🔄 In Progress**
-- Technical blog (4 posts live: NN, CNN, Transformer, YOLO)
+- Technical blog (7 posts live: NN, CNN, RNN, Transformer, ViT, CLIP, YOLO)
 - 35-day Placement Prep Program
 - Active internship/full-time job search
 
