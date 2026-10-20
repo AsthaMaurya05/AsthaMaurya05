@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d4edd,100:0A66C2&height=200&section=header&text=Astha%20Maurya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=650&lines=Building+AI+Agents+%26+Deep+Learning+Models;LoRA+Fine-Tuning+%C2%B7+Transformers+%C2%B7+Time+Series;Learning+in+Public+%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=650&lines=Building+AI+Agents+%26+Deep+Learning+Models;Hindi+NLP+%C2%B7+LLM+Evaluation+%C2%B7+Federated+Learning;LoRA+Fine-Tuning+%C2%B7+Transformers+%C2%B7+Time+Series;Learning+in+Public+%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 
 <br/>
 
@@ -24,9 +24,13 @@
 <tr>
 <td width="60%" valign="top">
 
-> 💬 **Aspiring AI Engineer** building forecasting systems, LLM-powered agents, and deep learning models from scratch — currently deepening into Transformers and Computer Vision.
+> 💬 **Aspiring AI Engineer** building LLM-powered agents, deep learning models from scratch, and Hindi NLP research — with a focus on LLM evaluation and privacy in federated learning.
 
-🤖 &nbsp;Building a **multi-agent Financial Research Agent** with a LoRA fine-tuned sentiment model, trained from scratch and deployed on Hugging Face Spaces
+🔬 &nbsp;Co-built **HAFT**, a Hindi adversarial-robustness benchmark for fact-checking — **under review at ICLR 2027**
+
+🔐 &nbsp;Reproduced **FedAvg** from scratch, then attacked it with **Deep Leakage from Gradients** — [wrote about it](https://medium.com/@asthamaurya8115/i-built-federated-learning-from-scratch-then-broke-its-privacy-promise-3a93c95b8c09)
+
+🤖 &nbsp;Built a **multi-agent Financial Research Agent** with a LoRA fine-tuned sentiment model (DistilBERT), deployed on Hugging Face Spaces
 
 🔭 &nbsp;Deployed AI forecasting systems in real industry internships at **REC Limited** and **Edunet Foundation + Shell + AICTE**
 
@@ -51,7 +55,7 @@
 
 |  |  |
 |---|---|
-| 💼 **Focus** | AI/ML Engineering, LLM Agents, DL, Time Series |
+| 💼 **Focus** | AI/ML Engineering, LLM Agents, Hindi NLP, DL |
 | 📍 **Location** | Jaunpur, Uttar Pradesh, India |
 | 🎓 **Education** | B.Tech CSE, LPU (2023–2027) |
 | ✉️ **Email** | asthamaurya8115@gmail.com |
@@ -92,6 +96,13 @@
 ![LoRA](https://img.shields.io/badge/LoRA_Fine--Tuning-FFD21E?style=flat-square&logoColor=222)
 ![Unsloth](https://img.shields.io/badge/Unsloth-00A388?style=flat-square&logoColor=white)
 
+**Research Areas**
+<br/>
+![Hindi NLP](https://img.shields.io/badge/Multilingual_NLP_(Hindi)-9D4EDD?style=flat-square&logoColor=white)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-0A66C2?style=flat-square&logoColor=white)
+![Adversarial Robustness](https://img.shields.io/badge/Adversarial_Robustness-181717?style=flat-square&logoColor=white)
+![Federated Learning](https://img.shields.io/badge/Federated_Learning-00A388?style=flat-square&logoColor=white)
+
 **Backend & APIs**
 <br/>
 <img src="https://skillicons.dev/icons?i=fastapi,django,flask,sqlite" />
@@ -127,10 +138,27 @@
 <tr>
 <td width="50%" valign="top">
 
+### 🔬 HAFT: Hindi Fact-Checking Robustness Benchmark
+A Hindi adversarial-robustness benchmark for automated fact-checking (1,120 claims, 22 attack mechanisms) — **under review at ICLR 2027**.
+<br/>`Hindi NLP` `PyTorch` `Benchmark`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🤖 [Financial Research Agent](https://github.com/AsthaMaurya05/financial-research-agent)
-Real-time stock research: live market data + news + a **from-scratch LoRA fine-tuned sentiment model** (DistilBERT), synthesized by Groq/Llama 3.3 70B.
+Real-time stock research: live market data + news + a **LoRA fine-tuned sentiment model** (DistilBERT, 1.09% of parameters trained, accuracy 0.85), synthesized by Groq/Llama 3.3 70B. Only the final step calls an LLM.
 <br/>`Multi-agent` `LoRA` `FastAPI` `Docker`
 <br/>🔗 [Live Demo](https://huggingface.co/spaces/Astha2700/financial-research-agent)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 [FedAvg + Deep Leakage from Gradients](https://github.com/AsthaMaurya05/research_paper_implementation)
+From-scratch PyTorch reproductions of McMahan et al. (2017) and Zhu et al. (2019). FedAvg on non-IID MNIST: 2NN accuracy 88.18% (E=1) → 95.40% (E=20), with client drift at high E. DLG recovers a recognizable private image and its label from one shared gradient.
+<br/>`PyTorch` `Federated Learning` `Gradient Inversion`
+<br/>🔗 [Blog Post](https://medium.com/@asthamaurya8115/i-built-federated-learning-from-scratch-then-broke-its-privacy-promise-3a93c95b8c09)
 
 </td>
 <td width="50%" valign="top">
@@ -152,7 +180,7 @@ Character-level GPT-style language model with no `transformers` library and no p
 <td width="50%" valign="top">
 
 ### 🪖 [Construction Helmet Safety Detector](https://github.com/AsthaMaurya05/yolo-helmet-detector)
-Custom YOLOv8 object detector (transfer learning from COCO) that flags workers without safety helmets — 97.2% mAP50 on the helmet class, trained in ~23 min on a free-tier T4 GPU.
+Custom YOLOv8 object detector (transfer learning from COCO) that flags workers without safety helmets — 97.2% mAP50 on the helmet class (65.2% overall; the rare person class was the limit), trained in ~23 min on a free-tier T4 GPU.
 <br/>`YOLOv8` `Transfer Learning` `Computer Vision`
 
 </td>
@@ -160,11 +188,20 @@ Custom YOLOv8 object detector (transfer learning from COCO) that flags workers w
 <tr>
 <td width="50%" valign="top">
 
+### 🦥 [LLM Fine-Tuning with Unsloth](https://github.com/AsthaMaurya05/finetuning_llm)
+LoRA supervised fine-tuning pipeline for an open-source LLM on Alpaca-Cleaned — 4-bit quantization, chat-template data prep, SFT with TRL, inference, and saving adapters.
+<br/>`Unsloth` `LoRA` `TRL` `4-bit Quantization`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🧠 [ML → DL Learning Roadmap](https://github.com/AsthaMaurya05/LearningDataScience)
 Public, phase-wise journey from classical ML to deep learning — Fraud Detection, Churn Prediction, and an ANN→CNN→BiLSTM sentiment comparison on IMDB.
 <br/>`Scikit-learn` `TensorFlow` `Keras` `NLP`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📐 [ML Concepts](https://github.com/AsthaMaurya05/ML_concepts)
@@ -172,8 +209,6 @@ Clean implementations of core classical ML algorithms — linear & logistic regr
 <br/>`Scikit-learn` `Classical ML`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📊 [EDA Agent](https://github.com/AsthaMaurya05/eda-agent)
@@ -181,6 +216,8 @@ Automated exploratory data analysis — upload a dataset, get an AI-generated PD
 <br/>`FastAPI` `Groq API` `Llama 3.3-70B`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🎬 [CineMatch — Movie Recommender](https://github.com/AsthaMaurya05/movie-recommendation)
@@ -188,8 +225,6 @@ Content-based recommender with a full CI/CD pipeline: pytest gating + automated 
 <br/>`TF-IDF` `Cosine Similarity` `Docker` `GitHub Actions`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🧩 LeetCode Auto Solver — Chrome Extension
@@ -198,6 +233,8 @@ Extracts a LeetCode problem from the page, generates a Python solution via Groq,
 <br/>🔗 [Blog Post](https://medium.com/@asthamaurya8115/i-built-a-chrome-extension-that-solves-leetcode-problems-with-ai-heres-what-broke-along-the-way-d7c9bde65326)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📈 [Energy Forecasting Dashboard](https://github.com/AsthaMaurya05/EnergyForecast-REC-Internship-)
@@ -233,7 +270,7 @@ Adaptive quiz engine with personalized AI-generated questions.
 
 <div align="center">
 
-📂 **Also on GitHub:** [Employee Salary EDA](https://github.com/AsthaMaurya05/Employee-Salary-Analysis-EDA-Report) · [Notes App](https://github.com/AsthaMaurya05/NotesApp) · [LangChain + Groq Tutorial](https://github.com/AsthaMaurya05) · [Fine-Tuning with Unsloth](https://github.com/AsthaMaurya05) · [Full profile →](https://github.com/AsthaMaurya05)
+📂 **Also on GitHub:** [Employee Salary EDA](https://github.com/AsthaMaurya05/Employee-Salary-Analysis-EDA-Report) · [Notes App](https://github.com/AsthaMaurya05/NotesApp) · [LangChain + Groq Tutorial](https://github.com/AsthaMaurya05) · [Full profile →](https://github.com/AsthaMaurya05)
 
 </div>
 
@@ -251,6 +288,7 @@ Writing about deep learning concepts as I learn them — explaining the theory a
 
 | Post | Topic |
 |:--|:--|
+| 🔐 **[I Built Federated Learning From Scratch, Then Broke Its Privacy Promise](https://medium.com/@asthamaurya8115/i-built-federated-learning-from-scratch-then-broke-its-privacy-promise-3a93c95b8c09)** | FedAvg and the gradient-leakage attack on it |
 | 🧠 **Neural Networks & Backpropagation** | Fundamentals & intuition behind ANNs |
 | 🖼️ **Convolutional Neural Networks** | How CNNs learn spatial features |
 | 🔁 **Recurrent Neural Networks** | Sequence modeling & the vanishing gradient problem |
@@ -283,7 +321,9 @@ Documented step-by-step across the [ML → DL Learning Roadmap](https://github.c
 | Mini-GPT — decoder-only Transformer, trained on Tiny Shakespeare | ✅ |
 | YOLOv8 Transfer Learning — Construction Helmet Detector | ✅ |
 | LangChain + Groq / Unsloth Fine-Tuning — tutorial notebooks | ✅ |
-| LLM-based projects | ⏳ Planned |
+| Federated Learning — FedAvg reproduction + DLG privacy attack | ✅ |
+| LLM applications — Financial Research Agent, LoRA fine-tuning | ✅ |
+| Hindi NLP research — HAFT benchmark |  
 
 </div>
 
@@ -411,6 +451,8 @@ Skill badges earned on [HackerRank](https://www.hackerrank.com/profile/mauryaast
 - Mini-GPT (decoder-only Transformer)
 - YOLOv8 Helmet Safety Detector
 - Multi-agent Financial Research Agent (LoRA fine-tuned)
+- FedAvg reproduction + Deep Leakage from Gradients attack
+- LLM fine-tuning with Unsloth
 - EDA Agent — AI-generated data reports
 - NASA Space Apps Challenge
 - Oracle AI Foundations certification
@@ -420,6 +462,7 @@ Skill badges earned on [HackerRank](https://www.hackerrank.com/profile/mauryaast
 <td width="33%" valign="top">
 
 **🔄 In Progress**
+- Hindi NLP research (HAFT, under review at ICLR 2027)
 - Technical blog (7 posts live: NN, CNN, RNN, Transformer, ViT, CLIP, YOLO)
 - 35-day Placement Prep Program
 - Active internship/full-time job search
@@ -428,7 +471,7 @@ Skill badges earned on [HackerRank](https://www.hackerrank.com/profile/mauryaast
 <td width="33%" valign="top">
 
 **⏳ Planned**
-- LLM-based projects (upcoming weeks)
+- More LLM and Indic-language projects
 - Cloud deployment — AWS / GCP
 - Open-source contributions
 - Full-time role in AI/ML or Data Science
@@ -459,7 +502,7 @@ Skill badges earned on [HackerRank](https://www.hackerrank.com/profile/mauryaast
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:9d4edd&height=120&section=footer" width="100%"/>
 
-**📝 Currently:** Building LLM-based projects · Writing a technical blog · Open to AI/ML internships & full-time roles
+**📝 Currently:** Hindi NLP research · Building LLM projects · Writing a technical blog · Open to AI/ML internships & full-time roles
 
 *Made with ❤️ by Astha Maurya*
 
