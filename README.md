@@ -139,7 +139,7 @@
 <td width="50%" valign="top">
 
 ### 🔬 HAFT: Hindi Fact-Checking Robustness Benchmark
-A Hindi adversarial-robustness benchmark for automated fact-checking (1,120 claims, 22 attack mechanisms) — **under review at ICLR 2027**.
+A Hindi adversarial-robustness benchmark for automated fact-checking (1,120 claims, 22 attack mechanisms) .
 <br/>`Hindi NLP` `PyTorch` `Benchmark`
 
 </td>
@@ -362,7 +362,7 @@ Documented step-by-step across the [ML → DL Learning Roadmap](https://github.c
 
 | Degree | Institution | Duration | CGPA |
 |:--|:--|:--:|:--:|
-| B.Tech — Computer Science & Engineering | Lovely Professional University, Punjab | 2023 – 2027 | **7.27** |
+| B.Tech — Computer Science & Engineering | Lovely Professional University, Punjab | 2023 – 2027 | **7.33** |
 
 </div>
 
